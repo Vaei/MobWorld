@@ -68,3 +68,8 @@ Every one of these renders. None of them logs anything.
 | A prop tinted by how wet its owner is | Custom primitive data slots overlapping between plugins |
 | Wetness does nothing whatever is written | `bWetness` not ticked on the instance |
 | A volume that darkens nobody | It contains nothing |
+
+## Changelog
+
+### 1.0.0
+* Initial commit
