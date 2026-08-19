@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > Joins the Mob rendering plugins together
 
-Each of them stands alone and knows about none of the others, so each has a collection, a component or a texture parameter that something has to fill. MobWorld is that something.
+Connects the Mob rendering plugins together. Which sky, how it reflects, what the weather is - pushed into every Mob plugin, along with additional functionality.
 
 Requires **MobFort** and **MobWater**, whose types it uses. MobLights and MobMaterials are reached by soft path to their collections, so dropping those needs no code change.
 
